@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Laptop",
+        "image": "1.png",
+        "description": "Pwede hampas sa katabi mo.",
+        "price": 199.99
+    },
+    {
+        "name": "Gaming Mouse",
+        "image": "2.jpeg",
+        "description": "Binta mo ket Bente lang.",
+        "price": 49.99
+    },
+    {
+        "name": "Headphone",
+        "image": "3.jpg",
+        "description": "Para dimo marinig yung Chismis.",
+        "price": 29.99
+    },
+
+    {
+        "name": "PhoneStand",
+        "image": "4.jpeg",
+        "description": "Para sa tamad humawak ng cp.",
+        "price": 79.99
+    },
+    {
+        "name": "SmartWatch",
+        "image": "5.jpeg",
+        "description": "E-clock",
+        "price": 39.99
+    },
+    {
+        "name": "Virtual Reality",
+        "image": "6.jpeg",
+        "description": "Para makita mo si Crush.",
+        "price": 24.99
+    },
+    {
+        "name": "Flying Drone",
+        "image": "7.png",
+        "description": "Makita mo si Crush from above.",
+        "price": 299.99
+    },
+    {
+        "name": "Gaming Keyboard",
+        "image": "8.jpeg",
+        "description": "Type kita beh.",
+        "price": 39.99
+    },
+    {
+        "name": "Iphone Charger",
+        "image": "9.jpeg",
+        "description": "mas mabilis pa sa fast.",
+        "price": 89.99
+    },
+    {
+        "name": "30 inch Monitor",
+        "image": "10.jpeg",
+        "description": "Mas malapad pa sa noo mo.",
+        "price": 19.99
+    },
+    {
+        "name": "Hover Board",
+        "image": "11.jpeg",
+        "description": "tamad ka maglakad diba?",
+        "price": 29.99
+    },
+    {
+        "name": "Computer Case",
+        "image": "12.jpeg",
+        "description": "Para sa mahina yung mga PC.",
+        "price": 49.99
+    }
+
+    
+
+
+]
